@@ -1,0 +1,22 @@
+h1 {
+	color:green;
+}
+
+#navbar {
+	border:3px solid;
+	border-color:#cccccc;
+	background-image: url("images/rainbowbackground.jpg");
+	background-position: left center;
+	top:0;
+	width:100%-10px;
+	color:#999;
+}
+
+#standardweb {
+	font-family:verdana;
+	background-color:#ffffcc;
+}
+
+#mainspace {
+	
+}
