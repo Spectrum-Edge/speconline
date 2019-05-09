@@ -1,15 +1,11 @@
-h1 {
-	color:green;
-}
-
 #navbar {
-	border:3px solid;
-	border-color:#cccccc;
+	color:#66ff99;
+	border:5px solid;
+	border-color:#dfdfb6;
 	background-image: url("images/rainbowbackground.jpg");
 	background-position: left center;
 	top:0;
 	width:100%-10px;
-	color:#999;
 }
 
 #standardweb {
@@ -17,6 +13,15 @@ h1 {
 	background-color:#ffffcc;
 }
 
-#mainspace {
-	
+#maindiv {
+	width:80%;
+	border:6px solid;
+	border-color:#dfdfb6;
+	background-color:#ffffee;
+	margin-left:10%;
+	margin-right:10%;
+}
+
+h2 {
+	color:#22ee99;
 }
