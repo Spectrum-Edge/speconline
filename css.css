@@ -1,15 +1,46 @@
 #navbar {
+	font-family:verdana;
+	font-style:bold;
 	color:#66ff99;
 	border:5px solid;
 	border-color:#dfdfb6;
 	background-image: url("images/rainbowbackground.jpg");
 	background-position: left center;
-	top:0;
 	width:100%-10px;
 }
 
+#navul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	opacity:1;
+}
+
+#navli {
+	float: left;
+}
+
+#navli a {
+	color:green;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+#navli a:hover {
+	background-color: #5cd65c;
+}
+
+#navbarlist {
+	float:left;
+	display:block;
+	text-align:center;
+	padding:14px 16px;
+}
+
 #standardweb {
-	font-family:verdana;
+	font-family:Arial;
 	background-color:#ffffcc;
 }
 
@@ -22,6 +53,11 @@
 	margin-right:10%;
 }
 
+h1 {
+	font-size:2em;
+}
+
 h2 {
+	font-size:1.75em;
 	color:#22ee99;
 }
