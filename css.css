@@ -1,3 +1,10 @@
+#standardweb {
+	font-family:Arial;
+	background-color:#ffffcc;
+	background-image:url("images/blep.jpg");
+	background-size: 100%;
+}
+
 #navbar {
 	font-family:verdana;
 	font-style:bold;
@@ -6,6 +13,7 @@
 	border-color:#dfdfb6;
 	background-image: url("images/rainbowbackground.jpg");
 	background-position: left center;
+	background-size: 100%;
 	width:100%-10px;
 }
 
@@ -39,10 +47,6 @@
 	padding:14px 16px;
 }
 
-#standardweb {
-	font-family:Arial;
-	background-color:#ffffcc;
-}
 
 #maindiv {
 	width:80%;
@@ -51,6 +55,11 @@
 	background-color:#ffffee;
 	margin-left:10%;
 	margin-right:10%;
+	background:0.5;
+}
+
+#funiframe {
+	border:none;
 }
 
 h1 {
